@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditFileDemo</string>
+    <string name="file_name">File Name</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
